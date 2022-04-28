@@ -1,3 +1,3 @@
-👋 Hi, I’m Marius Sebeke
+👋 Hi
 -
-Currently coding with Bellmans GAP for my masters thesis.
+Currently coding with Bellmans GAP and Python for my Masters Thesis.
