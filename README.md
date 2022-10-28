@@ -1,3 +1,3 @@
 👋 Hi
 -
-Currently coding with Bellmans GAP and Python for my Masters Thesis.
+Currently coding with Bellmans GAP, Python and C++ for my Masters Thesis.
